@@ -1,5 +1,6 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+Repositório Hello World para um Tutorial de Git
+Este é um repositório de exemplo para um tutorial de Git em https://www.w3schools.com
 
-This repository is built step by step in the tutorial.
+Este repositório é construído passo-a-passo pelo tutorial.
+o arquivo index.html não será traduzido.
